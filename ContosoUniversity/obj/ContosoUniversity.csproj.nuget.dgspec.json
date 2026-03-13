@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab9\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab9\\csci340-lab9\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab9\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab9\\csci340-lab9\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab9\\csci340-lab9\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab9\\csci340-lab9\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\sadie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab9\\ContosoUniversity\\obj\\",
+        "outputPath": "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab9\\csci340-lab9\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sadie\\AppData\\Roaming\\NuGet\\NuGet.Config"
